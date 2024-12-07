@@ -1,0 +1,2 @@
+# Beyond_The_Podium---Paris-Olympics-Data-visualizations
+Our project analyzes the 2024 Paris Olympics using dynamic visualizations to explore trends in medals, country performance, and athlete contributions. Focusing on gender, age, discipline, and participation, we aim to reveal patterns and insights into Olympic dynamics, providing an engaging way to understand how various factors influence outcomes.
