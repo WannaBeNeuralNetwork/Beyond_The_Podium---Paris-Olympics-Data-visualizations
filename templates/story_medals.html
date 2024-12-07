@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medals Distribution</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Medals Data Visualizations</h1>
+        <p>Explore medal distribution trends across participating countries.</p>
+    </header>
+    <section>
+        <h2>Medal Distribution by Country</h2>
+        <div>
+            {{ plot | safe }}
+        </div>
+    </section>
+    <a href="/">Back to Home</a>
+</body>
+</html>
